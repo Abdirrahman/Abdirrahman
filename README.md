@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Abdirrahman 👋</h1>
 <h3 align="center">A Software and Data Engineer based in London.</h3>
 
- 👨‍💻 All of my projects are available at [https://www.abdirrahman.com/](https://www.abdirrahman.com/)
+ 👨‍💻 Some of my projects are showcased at [https://www.abdirrahman.com/](https://www.abdirrahman.com/)
 
 <p align="left">
 </p>
