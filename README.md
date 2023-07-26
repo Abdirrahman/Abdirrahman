@@ -3,7 +3,8 @@
 
 
 
- 👨‍💻 Some of my projects are showcased at  [www.abdirrahman.com](https://www.abdirrahman.com/) 
+👨‍💻 Some of my projects are showcased at  [www.abdirrahman.com](https://www.abdirrahman.com/) 
+
 
 ## Featured Projects
 
