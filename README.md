@@ -7,6 +7,7 @@
 
 
 ## Featured Projects
+<!-- &theme=transparent&hide=html -->
 
 <p align='center'>
     <a href='https://github.com/Abdirrahman/Crypto-Tracker'>
@@ -22,7 +23,7 @@
         <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=abdirrahman&repo=Covid19-ANN' width='350'/>
     </a>
     <a href='https://github.com/Abdirrahman/React-Native-Template'>
-        <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=abdirrahman&repo=React-Native-Template&theme=transparent&hide=html'  width='350'/>
+        <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=abdirrahman&repo=React-Native-Template'  width='350'/>
     </a>
 </p>
 
