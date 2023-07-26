@@ -10,7 +10,7 @@
 
 <p align='center'>
     <a href='https://github.com/Abdirrahman/Crypto-Tracker'>
-        <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=abdirrahman&repo=Crypto-Tracker&theme=transparent&hide=html'  width='350'/>
+        <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=abdirrahman&repo=Crypto-Tracker'  width='350'/>
     </a>
     <a href='https://github.com/Abdirrahman/portfolio'>
         <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=abdirrahman&repo=portfolio' width='350'/>
