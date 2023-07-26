@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Abdirrahman 👋</h1>
 <h3 align="center">A Software and Data Engineer based in London.</h3>
 
-<p align="center">
  👨‍💻 Some of my projects are showcased at [https://www.abdirrahman.com/](https://www.abdirrahman.com/)
+<p align="center">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
