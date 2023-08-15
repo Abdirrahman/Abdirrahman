@@ -11,19 +11,19 @@
 
 <p align='center'>
     <a href='https://github.com/Abdirrahman/Crypto-Tracker'>
-        <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=abdirrahman&repo=Crypto-Tracker&theme=transparent&hide=html'  width='350'/>
+        <img src='https://github-readme-stats-iqum.vercel.app/api/pin/?username=abdirrahman&repo=Crypto-Tracker&theme=transparent&hide=html'  width='350'/>
     </a>
     <a href='https://github.com/Abdirrahman/portfolio'>
-        <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=abdirrahman&repo=portfolio&theme=transparent&hide=html' width='350'/>
+        <img src='https://github-readme-stats-iqum.vercel.app/api/pin/?username=abdirrahman&repo=portfolio&theme=transparent&hide=html' width='350'/>
     </a>
 </p>
 
 <p align='center'>
     <a href='https://github.com/Abdirrahman/Covid19-ANN'>
-        <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=abdirrahman&repo=Covid19-ANN&theme=transparent&hide=html' width='350'/>
+        <img src='https://github-readme-stats-iqum.vercel.app/api/pin/?username=abdirrahman&repo=Covid19-ANN&theme=transparent&hide=html' width='350'/>
     </a>
     <a href='https://github.com/Abdirrahman/React-Native-Template'>
-        <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=abdirrahman&repo=React-Native-Template&theme=transparent&hide=html'  width='350'/>
+        <img src='https://github-readme-stats-iqum.vercel.app/api/pin/?username=abdirrahman&repo=React-Native-Template&theme=transparent&hide=html'  width='350'/>
     </a>
 </p>
 
