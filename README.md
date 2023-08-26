@@ -5,10 +5,10 @@
 
 👨‍💻 Some of my projects are showcased at  [www.abdirrahman.com](https://www.abdirrahman.com/) 
 
-
+<!-- 
 ## Featured Projects
 <!-- &theme=transparent&hide=html -->
-
+<!-- 
 <p align='center'>
     <a href='https://github.com/Abdirrahman/Crypto-Tracker'>
         <img src='https://github-readme-stats-iqum.vercel.app/api/pin/?username=abdirrahman&repo=Crypto-Tracker&theme=transparent&hide=html'  width='350'/>
@@ -26,6 +26,8 @@
         <img src='https://github-readme-stats-iqum.vercel.app/api/pin/?username=abdirrahman&repo=React-Native-Template&theme=transparent&hide=html'  width='350'/>
     </a>
 </p>
+-->
+
 
 ##  Technical Skills
 
